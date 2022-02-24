@@ -1,3 +1,7 @@
 Este es el archivo 1
+<<<<<<< HEAD
 
 Actualización del archivo 1
+=======
+Este es el archivo 1 modificado por Tomás. 
+>>>>>>> 439fbfc80b3396516022620ccda7d1aba6257525
