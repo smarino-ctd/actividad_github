@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Esta es la versión definitiva. 
-=======
 Este es el archivo que hicimos con Tomas en la practica de Intro del 24/02/22
->>>>>>> f1797f218cd17274a77f7c7375a49006465e01d9
