@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Trabajo de Intro, realizado con Tomas, el 24/02/2022
+=======
+Trabajo en grupo para la materia Introducción a la Informático, realizado el 24 de febrero del 2022.
+>>>>>>> 108f7aa8d2ef2fc89293f55c3f3b94917e9787bf
